@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px 20px;
+}
+
+
+body {
+    background-color: black;
+    color: white;
+    height: 25000px;
+    
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 250px;
+    height: 400px;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-size: large;
+    flex: 1;
+
+
+}
+
+.red {
+    background-color: red;
+    width: 250px;
+    height: 400px;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-size: large;
+    flex: 1;
+}
+
+.green {
+    background-color: green;
+    width: 250px;
+    height: 400px;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-size: large;
+    flex: 1;
+}
+
+.orange {
+    background-color: orange;
+    width: 250px;
+    height: 400px;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-size: large;
+    flex: 1;
+
+}
+
+.blue {
+    background-color: blue;
+    width: 250px;
+    height: 400px;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-size: large;
+    flex: 1;
+
+}
+
